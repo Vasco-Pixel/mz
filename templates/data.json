@@ -434,6 +434,13 @@
     "width": 239,
     "height": 143
  },
+  "whitevoid": {
+    "name": "whitevoid.png",
+    "x": 1515,
+    "y": 3014,
+    "width": 468,
+    "height": 328 
+ },
   "gz": {
     "name": "gz.png",
     "x": -3185,
