@@ -1,6 +1,6 @@
 {
-  "Projecao_Zone17": {
-    "name": "Projecao_Zone17.png",
+  "espera": {
+    "name": "Espera.png",
     "x": 743,
     "y": 2933,
     "width": 1268,
@@ -12,6 +12,13 @@
     "y": 2591,
     "width": 708,
     "height": 423 
+},
+  "venom_top_d": {
+    "name": "venom_top_d.png",
+    "x": 738,
+    "y": 2970,
+    "width": 1303,
+    "height": 966 
 },
   "gatobr": {
     "name": "gatobr.png",
