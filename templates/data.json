@@ -1,11 +1,5 @@
 {
-  "Projecao_Zone17": {
-    "name": "Projecao_Zone17.png",
-    "x": 743,
-    "y": 2933,
-    "width": 1268,
-    "height": 724
-   },
+  
   "imperial": {
     "name": "imperial.png",
     "x": 1463,
@@ -13,12 +7,12 @@
     "width": 708,
     "height": 423 
 },
-  "venom_top_d": {
-    "name": "Espera.png",
-    "x": 738,
-    "y": 2970,
-    "width": 1303,
-    "height": 966 
+  "Venom_Wv1": {
+    "name": "Venom_Wv1.png",
+    "x": 677,
+    "y": 2933,
+    "width": 1400,
+    "height": 724 
 },
   "gatobr": {
     "name": "gatobr.png",
