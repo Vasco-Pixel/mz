@@ -451,13 +451,12 @@
  },
     "obsatkz1": {
     "name": "obsatkz1.png",
-    "x": 1022
+    "x": 1022,
     "y": 249,
     "width": 95,
     "height": 50 
  },
-
-  "gz": {
+    "gz": {
     "name": "gz.png",
     "x": -3185,
     "y": -3755,
