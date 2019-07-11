@@ -14,6 +14,13 @@
     "width": 1400,
     "height": 1066 
 },
+  "Pixelzone_sul": {
+    "name": "Pixelzone_sul.png",
+    "x": -4096,
+    "y": 0,
+    "width": 8142,
+    "height": 4096 
+},
   "gatobr": {
     "name": "gatobr.png",
     "x": 3022,
