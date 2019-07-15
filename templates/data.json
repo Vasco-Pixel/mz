@@ -442,20 +442,6 @@
     "width": 468,
     "height": 328 
  },
-  "obsatkz": {
-    "name": "obsatkz.png",
-    "x": 3018,
-    "y": 3034,
-    "width": 477,
-    "height": 279 
- },
-    "obsatkz1": {
-    "name": "obsatkz1.png",
-    "x": 1022,
-    "y": 249,
-    "width": 95,
-    "height": 50 
- },
     "gz": {
     "name": "gz.png",
     "x": -3185,
