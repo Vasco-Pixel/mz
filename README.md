@@ -6,7 +6,6 @@
 #### Página Facebook
 > https://www.facebook.com/PixelVascao/
 #### Creditos:
-<teste>
 #### ConsoleBey#9737
 ### PASSOS
 #### PASSO 1: Se ainda não possui, baixar um userscript manager de sua preferência, os principais são:
