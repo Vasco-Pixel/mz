@@ -1,8 +1,12 @@
 # Minimapa-VascoPixel-Pixel ZONE
 #### Discord 
 > http://discord.me/vascopixel ou http://discord.io/vascop
-#### Youtube https://www.youtube.com/channel/UC0Z2oeTqQpcxQmYJdWUFZVw
+#### Youtube 
+> https://www.youtube.com/channel/UC0Z2oeTqQpcxQmYJdWUFZVw
+#### Página Facebook
+> https://www.facebook.com/PixelVascao/
 #### Creditos:
+<teste>
 #### ConsoleBey#9737
 ### PASSOS
 #### PASSO 1: Se ainda não possui, baixar um userscript manager de sua preferência, os principais são:
