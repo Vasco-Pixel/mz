@@ -1,5 +1,6 @@
 # Minimapa-VascoPixel-Pixel ZONE
-#### Discord http://discord.me/vascopixel ou http://discord.io/vascop
+#### Discord 
+http://discord.me/vascopixel ou http://discord.io/vascop
 #### Youtube https://www.youtube.com/channel/UC0Z2oeTqQpcxQmYJdWUFZVw
 #### Creditos:
 #### ConsoleBey#9737
