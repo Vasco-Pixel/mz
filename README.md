@@ -1,4 +1,4 @@
-# Minimapa-VascoPixel-Pixel ZONE
+# Minimapa-✠VascoPixel✠-Pixel ZONE
 #### Discord 
 > http://discord.me/vascopixel ou http://discord.io/vascop
 #### Youtube 
