@@ -1,4 +1,5 @@
 # Minimapa-✠VascoPixel✠-Pixel ZONE
+# Novo mapa https://github.com/Vasco-Pixel/Pixelzone/raw/master/minimap.user.js
 #### Discord 
 > http://discord.me/vascopixel ou http://discord.io/vascop
 #### Youtube 
